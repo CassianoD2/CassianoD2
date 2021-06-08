@@ -15,7 +15,7 @@ Atualmente estou buscando uma realocação.
 - Análise e Desenvolvimento de Sistemas (Ulbra 2016/2)
 
 # Conhecimento
-- PHP (5.6/7.2)
+- PHP (5.6/7.4)
 - PHP Framework: CodeIgniter, Laravel, Phalcon, Slim, Symfony, Yii
 - Javascript
 - Javascript Frameworks: VueJS, React
