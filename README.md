@@ -4,7 +4,7 @@ Meu nome é Cassiano, sou desenvolvedor web desde 2015. Comecei bem cedo no mund
 
 Nas horas vagas gosto de ler e jogar.
 
-Atualmente estou buscando uma realocação.
+Atualmente estou buscando uma freelances.
 
 # Links
 - [Site Pessoal](https://cassianomesquita.dev)
